@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="" alt="Introduction">
+</p>
 
 # Autonomous Vacuum Cleaning Robot
 
