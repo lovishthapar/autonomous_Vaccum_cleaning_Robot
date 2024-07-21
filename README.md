@@ -24,6 +24,7 @@ This project showcases an autonomous vacuum cleaning robot designed and built as
 - **Servo Motor**: To rotate the ultrasonic sensor for better obstacle detection.
 - **BTS7960 Motor Drivers**: To control the motors driving the robot.
 - **Chassis**: Custom-built body to house all components and provide structural support.
+- **BLDC motor**:BLDC motor is atttahced to custom made fan to push the air outside in order to create vaccum,for suction of dust
 
 
 ## How It Works
