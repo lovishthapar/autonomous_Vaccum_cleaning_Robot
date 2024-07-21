@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Introduction">
+  <img src="vaccum_cleaner.jpeg" alt="vaccum cleaning bot">
 </p>
 
 # Autonomous Vacuum Cleaning Robot
